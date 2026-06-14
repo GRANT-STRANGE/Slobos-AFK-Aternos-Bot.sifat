@@ -1,9 +1,9 @@
 {
-  "name": "AFK Bot",
+  "name": "ONLINE_PERSON",
   "bot-account": {
     "username": "ONLINE_PERSON",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "LUNGI_CRAFT_BD.aternos.me",
