@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "ONLINE_PERSON",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "LUNGI_CRAFT_BD.aternos.me",
