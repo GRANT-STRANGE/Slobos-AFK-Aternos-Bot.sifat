@@ -1,5 +1,5 @@
 {
-  "name": "Afk bot",
+  "name": "ONLINE_PERSON",
   "bot-account": {
     "username": "ONLINE_PERSON",
     "password": "",
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "THANKS TO SIFAT!",
         "I like to play Minecraft!"
       ]
     },
